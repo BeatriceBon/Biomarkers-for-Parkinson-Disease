@@ -5,4 +5,4 @@ Homework assignment: Investigation the use of radiomics for analysis of DAT SPEC
 
 The aim of the project is to prepare a technical report which should provide a justified opinion on the use of radiomics analysis for DAT SPECT imaging as biomarker of PD.
 # code
--"code_Biomarkers.R"
+-"Code_Biomarkers.R"
